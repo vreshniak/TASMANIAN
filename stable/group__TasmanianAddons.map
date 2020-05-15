@@ -1,0 +1,9 @@
+<map id="Additional Capabilities" name="Additional Capabilities">
+<area shape="rect" id="node1" href="$group__TasmanianAddonsMPIDREAMSend.html" title="MPI Send/Receive/Scatter\l for DREAM" alt="" coords="210,5,389,47"/>
+<area shape="rect" id="node3" href="$group__TasmanianAddonsConstruct.html" title="Automated Surrogate\l Construction Procedure" alt="" coords="218,71,381,112"/>
+<area shape="rect" id="node4" href="$group__TasmanianAddonsMPIGridSend.html" title="MPI Send/Receive/Bcast\l/Scatter for Sparse Grids" alt="" coords="214,136,385,177"/>
+<area shape="rect" id="node5" href="$group__TasmanianAddonsMPIDream.html" title="MPI Sampling from Posterior" alt="" coords="204,202,395,229"/>
+<area shape="rect" id="node6" href="$group__TasmanianAddonsLoadNeededVals.html" title="Static Load Model Values" alt="" coords="214,253,385,279"/>
+<area shape="rect" id="node7" href="$group__TasmanianAddonsLoadUnstructured.html" title="Load from Unstructured\l Point Set" alt="" coords="220,304,379,345"/>
+<area shape="rect" id="node8" href="$group__TasmanianAddonsMPIConstruct.html" title="MPI Automated Surrogate\l Construction Procedure" alt="" coords="213,369,386,411"/>
+</map>
