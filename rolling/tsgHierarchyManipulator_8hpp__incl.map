@@ -1,0 +1,15 @@
+<map id="SparseGrids/tsgHierarchyManipulator.hpp" name="SparseGrids/tsgHierarchyManipulator.hpp">
+<area shape="rect" id="node2" href="$tsgRuleLocalPolynomial_8hpp_source.html" title="tsgRuleLocalPolynomial.hpp" alt="" coords="463,244,668,271"/>
+<area shape="rect" id="node28" href="$tsgIndexManipulator_8hpp.html" title="Algorithms for manipulating sets of multi&#45;indexes. " alt="" coords="721,95,903,121"/>
+<area shape="rect" id="node3" href="$tsgCoreOneDimensional_8hpp.html" title="Algorithms and meta&#45;data for the Gauuss, Chebyshev and custom rules. " alt="" coords="669,319,877,345"/>
+<area shape="rect" id="node4" href="$tsgIOHelpers_8hpp.html" title="Templates to simply file I/O. " alt="" coords="887,393,1022,420"/>
+<area shape="rect" id="node25" href="$tsgLinearSolvers_8hpp.html" title="Linear solvers. " alt="" coords="545,393,703,420"/>
+<area shape="rect" id="node27" href="$tsgSequenceOptimizer_8hpp.html" title="Algorithms for computing greedy sequences. " alt="" coords="721,468,917,495"/>
+<area shape="rect" id="node5" href="$tsgEnumerates_8hpp.html" title="Omnipresent enumerate types. " alt="" coords="745,543,893,569"/>
+<area shape="rect" id="node23" href="$tsgUtils_8hpp.html" title="Miscellaneous utility templates used thoughout the code. " alt="" coords="1751,617,1851,644"/>
+<area shape="rect" id="node24" href="$tsgMathUtils_8hpp.html" title="Math functions and constants. " alt="" coords="1735,692,1867,719"/>
+<area shape="rect" id="node26" href="$tsgAcceleratedDataStructures_8hpp.html" title="Data structures for interacting with CUDA and MAGMA environments. " alt="" coords="453,468,697,495"/>
+<area shape="rect" id="node29" href="$tsgIndexSets_8hpp.html" title="Data structures for storing multi&#45;indexes and floating point values. " alt="" coords="902,319,1037,345"/>
+<area shape="rect" id="node30" href="$tsgOneDimensionalWrapper_8hpp.html" title="Cache for one dimensional rules. " alt="" coords="697,169,927,196"/>
+<area shape="rect" id="node31" href="$tsgHardCodedTabulatedRules_8hpp.html" title="Hard&#45;coded nodes and weights. " alt="" coords="692,244,932,271"/>
+</map>

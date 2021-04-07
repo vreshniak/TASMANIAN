@@ -1,0 +1,52 @@
+\form#0:$ \left( \begin{array}{rrrr} 1 & 2 & 3 & 4 \\ 5 & 6 & 7 & 8 \\ 9 & 10 & 11 & 12 \\ \end{array} \right) $
+\form#1:$ \xi_1, \xi_2, \cdots, \xi_d $
+\form#2:$ \eta_1, \eta_2, \cdots, \eta_d $
+\form#3:$ \alpha $
+\form#4:$ \rho(x) $
+\form#5:$ \beta $
+\form#6:$ d $
+\form#7:$ \eta $
+\form#8:$ \xi $
+\form#9:$ \int_\Gamma f(x) \rho(x) dx $
+\form#10:$ \Gamma $
+\form#11:$ f(x) $
+\form#12:$ [0, \infty) $
+\form#13:$ [a, \infty) $
+\form#14:$ (-\infty, \infty) $
+\form#15:$ \left\{ (i_1, i_2, \cdots, i_d) : \sum_{k=1}^d \xi_k i_k \leq L \right\} $
+\form#16:$ \left\{ (i_1, i_2, \cdots, i_d) : \sum_{k=1}^d \xi_k i_k + \sum_{k=1}^d \eta_k \log(i_k + 1) \leq L \right\} $
+\form#17:$ \left\{ (i_1, i_2, \cdots, i_d) : \prod_{k=1}^d (i_k + 1)^{\xi_k} \leq L \right\} $
+\form#18:$ \left\{ \prod_{k=1}^d x^{i_k} : \sum_{k=1}^d \xi_k i_k \leq L \right\} $
+\form#19:$ \left\{ \prod_{k=1}^d x^{i_k} : \sum_{k=1}^d \xi_k i_k + \sum_{k=1}^d \eta_k \log(i_k + 1) \leq L \right\} $
+\form#20:$ \left\{ \prod_{k=1}^d x^{i_k} : \prod_{k=1}^d (i_k + 1)^{\xi_k} \leq L \right\} $
+\form#21:$ \left\{ \prod_{k=1}^d x^{i_k} : i_k \leq \xi_k \mbox{ for all } k \right\} $
+\form#22:$ \int_{a}^{b} f(x) / \sqrt{(b - x)(x - a)} dx $
+\form#23:$ \int_{a}^{b} f(x) \sqrt{(b - x)(x - a)} dx $
+\form#24:$ \int_{a}^{b} f(x) (b - x)^\alpha (x - a)^\alpha dx $
+\form#25:$ \int_{a}^{b} f(x) (b - x)^\alpha (x - a)^\beta dx $
+\form#26:$ \int_{a}^{\infty} f(x) (x - a)^\alpha \exp \left(-b (x - a) \right) dx $
+\form#27:$ \int_{-\infty}^{\infty} f(x) (x - a)^\alpha \exp \left(-b (x - a)^2 \right) dx $
+\form#28:$ \min_x \| A x - b \|_2 $
+\form#29:$ \min_x \| A x - B \|_2 $
+\form#30:$ A^T x = b $
+\form#31:$ A X = B $
+\form#32:$ x = s_i + w ( s_k - s_j) $
+\form#33:$ \exp( -0.5 x^2 ) $
+\form#34:$ -0.5 x^2 $
+\form#35:$ y = \exp(- 0.5 (x - M)^2 / V) $
+\form#36:$ y = \exp(- R * (x - x_0)) $
+\form#37:$ y = (x - x_0)^{\alpha - 1} (x_1 - x_0)^{\beta - 1} $
+\form#38:$ y = (x - x_0)^{\alpha - 1} \exp(-\beta (x - x_0)) $
+\form#39:$ L(y | d_1 \cdots d_n) = \exp\left( 0.5 sum_{i=1}^n (y - d_i)^T \Sigma^{-1} (y - d_i) \right)$
+\form#40:$ d_i $
+\form#41:$ \Sigma $
+\form#42:$ \min_c \| G_c(x) - Y \|_2 $
+\form#43:$ G_c(x) = H c $
+\form#44:$ C = \alpha A B + \beta C $
+\form#45:$ C = C Q^T $
+\form#46:$ min_x \| A x - B \|^2_2 $
+\form#47:$ A = P L U $
+\form#48:$ C = \alpha A B $
+\form#49:$ \int_{-1}^{+1} \int_{-1}^{+1} \exp(-x^2) \cos(y) dy dx $
+\form#50:$ \int_{-5}^{+5} \int_{-2}^{+3} \exp(-x^2) \cos(y) dy dx $
+\form#51:$ \int_{-5}^{+5} \int_{-5}^{+5} \int_{-2}^{+3} \int_{-2}^{+3} \exp(-x_1^2 -x_2^2) \cos(x_3) \cos(x_4) dx_4 dx_3 dx_2 dx_1 $
